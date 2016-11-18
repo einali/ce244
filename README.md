@@ -15,57 +15,37 @@ just clone to repo and explore all folders.
 
 You need to love programming and java especcially to use this repo.
 
+You should type as fast as any other developer.
+take look to this [inforgraphy](http://www.ratatype.com/learn/average-typing-speed/) and please practice type if 
+you are not sure about your ablities.
+[typingclub](http://www.typingclub.com/)
+
+
 
 ```
-Please take look to this tutorial about git before start to use this repository.
-```
-
-
-
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Please take look to this tutorial about git(in persian) before start to use this repository.
+[takhtesefid.org](http://takhtesefid.org/watch?v=312150767183)
+[Torrent Download](https://archive.org/download/GitVersionControlSystem/GitVersionControlSystem_archive.torrent)
 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
 
 
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+
+
 
 ## Authors
 
 * **Mehdi Einali** - *Initial work* - [mail](mailto:einali@ce.sharif.edu)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/einali/ce244/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Some of codes in this repository area from onlie resources. you can inform me if you can 
 
 ## See Also
 Advaced Programming Course on Sharif Courseware:
