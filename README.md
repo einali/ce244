@@ -59,7 +59,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Mehdi Einali** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mehdi Einali** - *Initial work* - [mail](mailto:einali@ce.sharif.edu)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
