@@ -14,20 +14,21 @@ just clone repo and explore it.
 ### Prerequisites
 
 You need to love programming and java especcially to use this repo.
-```
+
+
 You should type as fast as any other developer.
 take look to this [inforgraphy](http://www.ratatype.com/learn/average-typing-speed/) and please practice type if 
 you are not sure about your ablities.
 [typingclub](http://www.typingclub.com/)
-```
 
 
-```
+
+
 Please take look to this tutorial about git(in persian) before start to use this repository.
 [takhtesefid.org](http://takhtesefid.org/watch?v=312150767183)
 [Torrent Download](https://archive.org/download/GitVersionControlSystem/GitVersionControlSystem_archive.torrent)
 
-```
+
 
 ## Authors
 
